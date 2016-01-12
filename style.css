@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+div {
+  background-color: green;
+  border-style: 1px solid black;
+  border-radius: 5px;
+}
+
+h1 {
+  background-color: blue;
+  border-style: 2px solid black;
+  border-radius: 5px;
+  color: orange;
+}
